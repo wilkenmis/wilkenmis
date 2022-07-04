@@ -1,12 +1,18 @@
 ###
 
+:loop: :high_brightness: I'm currently on the simulation of Atomic and Molecular Spectra employing Relativistic Quantum Chemistry.
+
 :mortar_board: I'm a B.Sc. and M.Sc. in Chemistry. I’m currently working on my Ph.D. thesis in Physics at the Université de Lille - France.
 
-:high_brightness: I'm currently on the simulation of Atomic and Molecular Spectra employing Relativistic Quantum Chemistry.
+:computer: I have some proficiency in Python, Fortran, C++ and GitHub.
 
-:computer: I have some proefiency in Python, Fortran, C++ and GitHub.
+You may reach me at:
 
-:mailbox: You may reach me at wilken.misael@univ-lille.fr
+:office:  Laboratoire de Physique des Lasers, Atomes et Molécules (PhLAM) - UMR 8523; Université de Lille, Villeneuve-d'Ascq (59), France.
+
+:necktie: https://www.linkedin.com/in/wilken-misael/
+
+:mailbox: wilken.misael@univ-lille.fr
 
   ##
 
@@ -17,8 +23,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkenmis&layout=small&langs_count=7&theme=default"/>
     
 </div>
-
-  ##
   
 </div>
 
@@ -47,7 +51,6 @@
 
 </div>
 
-  ##
   
 <!--
 **wilkenmis/wilkenmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
