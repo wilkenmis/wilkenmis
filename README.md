@@ -25,9 +25,9 @@
 
 <div align="center">
   <a href="https://github.com/wilkenmis">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=wilkenmis&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=prs,stars"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=wilkenmis&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide=prs,stars"/>
 
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkenmis&layout=small&langs_count=7&theme=default"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkenmis&layout=small&langs_count=7&theme=default"/>
     
 </div>  
  
