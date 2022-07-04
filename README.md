@@ -1,4 +1,4 @@
-###
+#### Hey, I'm Wilken.
 
 :loop: :high_brightness: I'm currently on the simulation of Atomic and Molecular Spectra employing Relativistic Quantum Chemistry.
 
@@ -13,8 +13,6 @@ You may reach me at:
 :necktie: https://www.linkedin.com/in/wilken-misael/
 
 :mailbox: wilken.misael@univ-lille.fr
-
-  ##
 
 <div align="center">
   <a href="https://github.com/wilkenmis">
