@@ -1,18 +1,25 @@
-#### Hey, I'm Wilken.
+### Hey, I'm Wilken.
 
-:loop: :high_brightness: I'm currently on the simulation of Atomic and Molecular Spectra employing Relativistic Quantum Chemistry.
+:loop: :high_brightness: [I'm currently on the simulation of Atomic and Molecular Spectra by means of high level *ab initio* Relativistic Quantum Chemistry calculations.](https://phlam.univ-lille.fr/resumes-de-theses/aldair-misael-wilken-simulating-resonant-inelastic-x-ray-scattering-across-the-whole-periodic-table/)
 
-:mortar_board: I'm a B.Sc. and M.Sc. in Chemistry. I’m currently working on my Ph.D. thesis in Physics at the Université de Lille - France.
+:mortar_board: I have a B.Sc. and M.Sc. in Chemistry from the Federal University of Rio de Janeiro - Brasil.
 
-:computer: I have some proficiency in Python, Fortran, C++ and GitHub.
+:mag_right: I’m currently working on my Ph.D. thesis in Physics at the Université de Lille - France.
 
-You may reach me at:
+:computer: I have some proficiency in Python and GitHub.
 
+<h3 align="left">You may reach me at</h3>
+<p align="left">
+  
 :office:  Laboratoire de Physique des Lasers, Atomes et Molécules (PhLAM) - UMR 8523; Université de Lille, Villeneuve-d'Ascq (59), France.
 
-:necktie: https://www.linkedin.com/in/wilken-misael/
+<a href="https://linkedin.com/in/wilken-misael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilken-misael" height="30" width="40" /></a>
+<a href="https://fb.com/eenwilken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eenwilken" height="30" width="40" /></a>
+<a href="https://instagram.com/__wilken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__wilken" height="30" width="40" /></a>
 
-:mailbox: wilken.misael@univ-lille.fr
+:mailbox: wilken.misael@univ-lille.fr  
+  
+  ## 
 
 <div align="center">
   <a href="https://github.com/wilkenmis">
@@ -20,8 +27,8 @@ You may reach me at:
 
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkenmis&layout=small&langs_count=7&theme=default"/>
     
-</div>
-  
+</div>  
+ 
 </div>
 
 <div align="center">
@@ -48,19 +55,3 @@ You may reach me at:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 
 </div>
-
-  
-<!--
-**wilkenmis/wilkenmis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
