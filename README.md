@@ -4,7 +4,7 @@
 
 :mortar_board: I have a B.Sc. and M.Sc. in Chemistry.
 
-:loop: :high_brightness: [I'm currently on the simulation of Atomic and Molecular Spectra by means of high-level *ab initio* Relativistic Quantum Chemistry calculations.](https://phlam.univ-lille.fr/resumes-de-theses/aldair-misael-wilken-simulating-resonant-inelastic-x-ray-scattering-across-the-whole-periodic-table/)
+:loop: :high_brightness: [I'm currently working on the simulation of Atomic and Molecular Spectra by means of high-level *ab initio* Relativistic Quantum Chemistry calculations.](https://phlam.univ-lille.fr/resumes-de-theses/aldair-misael-wilken-simulating-resonant-inelastic-x-ray-scattering-across-the-whole-periodic-table/)
 
 :computer: I have some proficiency in Python and GitHub.
 
