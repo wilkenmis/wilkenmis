@@ -11,7 +11,7 @@
   
 :office: CINaM - UMR 7325 - DR 12. CNRS - Aix Marseille Université, Campus de Luminy.
 
-:city_sunrise: Marseille (13), France.
+:sunrise_over_mountains: Marseille (13), France.
 
 <a href="https://linkedin.com/in/wilken-misael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilken-misael" height="30" width="40" /></a>
 <a href="https://fb.com/eenwilken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eenwilken" height="30" width="40" /></a>
