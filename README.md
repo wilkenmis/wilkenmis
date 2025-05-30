@@ -1,8 +1,8 @@
 ### Hey, I'm Wilken 👋🏼
 
-💻 I’m transitioning from academic research into Data Science, with a strong interest in **scientific computing**, **workflow automation**, and **data visualization**.
-
 🎓 I hold a Ph.D. in Physics (Université de Lille, France), and a B.Sc. & M.Sc. in Chemistry (Universidade Federal do Rio de Janeiro, Brazil).
+
+💻 I’m transitioning from academic research into Data Science, with a strong interest in **scientific computing**, **workflow automation**, and **data visualization**.
 
 🔬 My academic work focused on the numerical simulation of molecular and electronic properties using various levels of quantum theory.
 
