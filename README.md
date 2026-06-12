@@ -12,7 +12,7 @@
 
 <h3 align="left">📫 You can reach me at</h3>
 
-🌍 Marseille, France  
+🌍 Florianópolis, Brasil  
 📧 wilken.am@gmail.com
 
 <a href="https://linkedin.com/in/wilken-misael" target="blank">
