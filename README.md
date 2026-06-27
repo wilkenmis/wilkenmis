@@ -4,7 +4,7 @@
 
 💻 I’m transitioning from academic research into Data Science, with a strong interest in **scientific computing**, **workflow automation**, and **data visualization**.
 
-🔬 My academic work focused on the numerical simulation of molecular and electronic properties using various levels of quantum theory.
+🔬 My academic work focused on the quantum modeling of molecular and electronic properties using various levels of quantum theory.
 
 🌱 I'm currently building new skills in **R**, **SQL**, and **Git**, applying my scientific mindset to solve data-driven problems.
 
