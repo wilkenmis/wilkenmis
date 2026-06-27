@@ -1,6 +1,6 @@
 ### Hey, I'm Wilken 👋🏼
 
-🎓 I hold a Ph.D. in Physics (Université de Lille, France), and a B.Sc. & M.Sc. in Chemistry (Universidade Federal do Rio de Janeiro, Brazil).
+🎓 I hold a Ph.D. in Theoretical Physical Chemistry (Université de Lille, France), and a B.Sc. & M.Sc. in Chemistry (Universidade Federal do Rio de Janeiro, Brazil).
 
 💻 I’m transitioning from academic research into Data Science, with a strong interest in **scientific computing**, **workflow automation**, and **data visualization**.
 
